@@ -69,6 +69,7 @@ import backend.MusicBeatState;
 import backend.MusicBeatSubstate;
 import backend.Song;
 import backend.Section;
+import objects.Note;
 
 #else
 import Section.SwagSection;
