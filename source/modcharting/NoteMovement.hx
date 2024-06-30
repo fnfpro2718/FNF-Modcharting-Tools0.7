@@ -9,6 +9,13 @@ import flixel.FlxG;
 import states.PlayState;
 import game.Note;
 
+#elseif PSYCH
+
+import states.PlayState;
+import objects.Note;
+import objects.StrumNote;
+import backend.Conductor;
+
 #else 
 import PlayState;
 import Note;
