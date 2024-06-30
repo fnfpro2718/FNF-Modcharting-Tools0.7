@@ -66,7 +66,7 @@ import substates.MusicBeatSubstate;
 #elseif PSYCH
 
 import backend.MusicBeatState;
-import backend.MusicBeatSubState;
+import backend.MusicBeatSubstate;
 import backend.Song;
 import backend.Section;
 
